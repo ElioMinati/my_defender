@@ -3,7 +3,7 @@
 
 -- EPITECH PROJECT --
 
-\\ Duration time: 1 month //
+\\\\ Duration time: 1 month //
 
 CSFML defender game based on clash royale &amp; bloons TD 6.
 
