@@ -1,0 +1,9 @@
+Welcome to Bloons tower defense with a clash royale feel !
+
+Choose from a few maps,
+
+place towers and upgrade them to survive.
+
+
+Bloons will become stronger as rounds go up, your goal is
+to complete all rounds with the least lives lost
